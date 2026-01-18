@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Manthan Sharma</h1>
-<h3 align="center">AI / ML Developer • C++ • Python • Linux</h3>
+<h3 align="center">AI / ML Developer • Python • Linux</h3>
 
 ---
 
