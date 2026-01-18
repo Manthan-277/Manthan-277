@@ -4,17 +4,19 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 B.Tech CSE (AI/ML)
 - 💡 Building future-ready AI tools
 - 🔥 Consistent learner
 
 ---
 
-### ⚙️ Tools
-![Skills](https://skillicons.dev/icons?i=cpp,python,linux,git,vscode)
+## 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,vscode" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Manthan-277)
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manthan-277&theme=tokyonight)
