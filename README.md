@@ -1,67 +1,29 @@
+<!-- ========================= -->
+<!--  HERO TYPING HEADER     -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Developer;C%2B%2B+Programmer;Problem+Solver;Building+Future+Tech;Always+Learning&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manthan+%F0%9F%91%8B;AI%2FML+Student+%26+Full+Stack+Developer;Building+Impactful+AI+Products;Future+Top+1%25+AI+Engineer" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manthan Sharma</h1>
-<h3 align="center">AI / ML Developer • Python • Linux</h3>
+---
+
+<!-- ========================= -->
+<!--  HERO BANNER / BADGES   -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00f7ff" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=00f7ff" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00f7ff?style=flat-square" />
+</p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech CSE (AI/ML)
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🛠 Building **real-world problem-solving systems**
-- 🚀 Focused on **DSA + AI + Engineering excellence**
-- 🔥 Consistent learner with long-term vision
 
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,linux,git,vscode&perline=8" />
-</p>
-
----
-
-## 📌 What I'm Working On
-- 🧩 Data Structures & Algorithms (C++)
-- 📊 Machine Learning foundations
-- 🧠 AI projects for real-world impact
-- 🌐 Web integration for AI systems
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manthan-277&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manthan-277&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan-277&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manthan-277&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/Manthan-277">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <i>"Building skills today to create intelligent systems tomorrow."</i>
-</p>
+```txt
+Name: Manthan  
+Role: AI/ML Student & Full Stack Developer  
+Mission: Build AI systems that solve real psychological + digital problems  
+Goal: Become a Top 1% AI Engineer  
