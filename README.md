@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0AFFEF"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=0AFFEF"/>
+  <img src="https://komarev.com/ghpvc/?username=Manthan-277&style=flat-square&color=0AFFEF"/>
+  <img src="https://img.shields.io/github/followers/Manthan-277?style=flat-square&color=0AFFEF"/>
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0AFFEF?style=flat-square"/>
 </p>
 
@@ -72,12 +72,12 @@ My long-term mission is to become a **Top 1% AI Engineer** and build products th
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manthan-277&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manthan-277&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan-277&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ My long-term mission is to become a **Top 1% AI Engineer** and build products th
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-277&theme=tokyo-night"/>
 </p>
 
 ---
