@@ -100,9 +100,9 @@ Solve human problems.**
 
 ## 📬 Connect
 
-- LinkedIn → add link  
-- Portfolio → coming soon  
-- Email → yourmail@gmail.com  
+- LinkedIn →   
+- Portfolio → https://manthan-portfolio-277.netlify.app/
+- Email → manthans917@gmail.com  
 
 ---
 
