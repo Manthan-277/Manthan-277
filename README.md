@@ -101,7 +101,7 @@ Solve human problems.**
 ## 📬 Connect
 
 - LinkedIn →   
-- Portfolio → https://manthan-portfolio-277.netlify.app/
+- Portfolio → https://manthan-port.netlify.app/
 - Email → manthans917@gmail.com  
 
 ---
